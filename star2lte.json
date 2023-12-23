@@ -1,12 +1,12 @@
 {
     "response": [
       {
-        "datetime": 1703232067,
-        "filename": "lineage-18.1-20231222-UNOFFICIAL-star2lte.zip",
-        "id": "c2f9f54780f413712c8c6bd26cdabc8b",
+        "datetime": 1703304953,
+        "filename": "lineage-18.1-20231223-UNOFFICIAL-star2lte.zip",
+        "id": "56c8e8e1ffa3d47ed41621b97a934eb0",
         "romtype": "unofficial",
-        "size": 597929239,
-        "url": "https://github.com/quangnguyen7616/lineage/releases/download/star2lte/lineage-18.1-20231222-UNOFFICIAL-star2lte.zip",
+        "size": 576756659,
+        "url": "https://github.com/quangnguyen7616/lineage/releases/download/star2lte/lineage-18.1-20231223-UNOFFICIAL-star2lte.zip",
         "version": "18.1"
       }
     ]
