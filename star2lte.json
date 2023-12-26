@@ -1,12 +1,12 @@
 {
     "response": [
       {
-        "datetime": 1703491787,
-        "filename": "lineage-18.1-20231225-UNOFFICIAL-star2lte.zip",
-        "id": "68455d1e38acf0c286d749cd3af6890a",
+        "datetime": 1703574925,
+        "filename": "lineage-18.1-20231226-UNOFFICIAL-star2lte.zip",
+        "id": "d6ab8f826aab9ceca0258ef0a0f3857a",
         "romtype": "unofficial",
         "size": 576778358,
-        "url": "https://github.com/quangnguyen7616/lineage/releases/download/star2lte/lineage-18.1-20231225-UNOFFICIAL-star2lte.zip",
+        "url": "https://rom.hotaso.vn/lineage-18.1-20231226-UNOFFICIAL-star2lte.zip",
         "version": "18.1"
       }
     ]
