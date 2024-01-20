@@ -1,12 +1,12 @@
 {
     "response": [
       {
-        "datetime": 1705577243,
-        "filename": "lineage-20.0-20240118-UNOFFICIAL-greatlte.zip",
-        "id": "1705577243",
+        "datetime": 1705735121,
+        "filename": "lineage-20.0-20240120-UNOFFICIAL-greatlte.zip",
+        "id": "1705735121",
         "romtype": "unofficial",
-        "size": 991457683,
-        "url": "https://rom.hotaso.vn/lineage-20.0-20240118-UNOFFICIAL-greatlte.zip",
+        "size": 991048849,
+        "url": "https://rom.hotaso.vn/lineage-20.0-20240120-UNOFFICIAL-greatlte.zip",
         "version": "20.0"
       }
     ]
