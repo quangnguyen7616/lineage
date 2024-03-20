@@ -1,0 +1,2059 @@
+[
+  {
+    "CountryIso": "ad",
+    "TimeZoneIds": [
+      "Europe/Andorra"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ae",
+    "TimeZoneIds": [
+      "Asia/Dubai"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "af",
+    "TimeZoneIds": [
+      "Asia/Kabul"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ag",
+    "TimeZoneIds": [
+      "America/Antigua"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ai",
+    "TimeZoneIds": [
+      "America/Anguilla"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "al",
+    "TimeZoneIds": [
+      "Europe/Tirane"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "am",
+    "TimeZoneIds": [
+      "Asia/Yerevan"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ao",
+    "TimeZoneIds": [
+      "Africa/Luanda"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "aq",
+    "TimeZoneIds": [
+      "Antarctica/McMurdo",
+      "Antarctica/DumontDUrville",
+      "Antarctica/Casey",
+      "Antarctica/Davis",
+      "Antarctica/Mawson",
+      "Antarctica/Vostok",
+      "Antarctica/Syowa",
+      "Antarctica/Troll",
+      "Antarctica/Rothera",
+      "Antarctica/Palmer"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ar",
+    "TimeZoneIds": [
+      "America/Argentina/Buenos_Aires"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "America/Buenos_Aires",
+        "PreferredId": "America/Argentina/Buenos_Aires"
+      }
+    ]
+  },
+  {
+    "CountryIso": "as",
+    "TimeZoneIds": [
+      "Pacific/Pago_Pago"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Pacific/Samoa",
+        "PreferredId": "Pacific/Pago_Pago"
+      }
+    ]
+  },
+  {
+    "CountryIso": "at",
+    "TimeZoneIds": [
+      "Europe/Vienna"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "au",
+    "TimeZoneIds": [
+      "Australia/Sydney",
+      "Australia/Brisbane",
+      "Australia/Lord_Howe",
+      "Australia/Adelaide",
+      "Australia/Darwin",
+      "Australia/Perth",
+      "Australia/Eucla"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Australia/ACT",
+        "PreferredId": "Australia/Sydney"
+      }
+    ]
+  },
+  {
+    "CountryIso": "aw",
+    "TimeZoneIds": [
+      "America/Aruba"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ax",
+    "TimeZoneIds": [
+      "Europe/Mariehamn"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "az",
+    "TimeZoneIds": [
+      "Asia/Baku"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ba",
+    "TimeZoneIds": [
+      "Europe/Sarajevo"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "bb",
+    "TimeZoneIds": [
+      "America/Barbados"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "bd",
+    "TimeZoneIds": [
+      "Asia/Dhaka"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Asia/Dacca",
+        "PreferredId": "Asia/Dhaka"
+      }
+    ]
+  },
+  {
+    "CountryIso": "be",
+    "TimeZoneIds": [
+      "Europe/Brussels"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "bf",
+    "TimeZoneIds": [
+      "Africa/Ouagadougou"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "bg",
+    "TimeZoneIds": [
+      "Europe/Sofia"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "bh",
+    "TimeZoneIds": [
+      "Asia/Bahrain"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "bi",
+    "TimeZoneIds": [
+      "Africa/Bujumbura"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "bj",
+    "TimeZoneIds": [
+      "Africa/Porto-Novo"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "bl",
+    "TimeZoneIds": [
+      "America/St_Barthelemy"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "bm",
+    "TimeZoneIds": [
+      "Atlantic/Bermuda"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "bn",
+    "TimeZoneIds": [
+      "Asia/Brunei"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "bo",
+    "TimeZoneIds": [
+      "America/La_Paz"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "bq",
+    "TimeZoneIds": [
+      "America/Kralendijk"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "br",
+    "TimeZoneIds": [
+      "America/Noronha",
+      "America/Sao_Paulo",
+      "America/Manaus",
+      "America/Rio_Branco"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Brazil/DeNoronha",
+        "PreferredId": "America/Noronha"
+      }
+    ]
+  },
+  {
+    "CountryIso": "bs",
+    "TimeZoneIds": [
+      "America/Nassau"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "bt",
+    "TimeZoneIds": [
+      "Asia/Thimphu"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Asia/Thimbu",
+        "PreferredId": "Asia/Thimphu"
+      }
+    ]
+  },
+  {
+    "CountryIso": "bw",
+    "TimeZoneIds": [
+      "Africa/Gaborone"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "by",
+    "TimeZoneIds": [
+      "Europe/Minsk"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "bz",
+    "TimeZoneIds": [
+      "America/Belize"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ca",
+    "TimeZoneIds": [
+      "America/Toronto",
+      "America/Vancouver",
+      "America/Edmonton",
+      "America/Winnipeg",
+      "America/Halifax",
+      "America/St_Johns",
+      "America/Blanc-Sablon",
+      "America/Atikokan",
+      "America/Regina",
+      "America/Dawson_Creek",
+      "America/Whitehorse"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "America/Montreal",
+        "PreferredId": "America/Toronto"
+      }
+    ]
+  },
+  {
+    "CountryIso": "cc",
+    "TimeZoneIds": [
+      "Indian/Cocos"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "cd",
+    "TimeZoneIds": [
+      "Africa/Lubumbashi",
+      "Africa/Kinshasa"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "cf",
+    "TimeZoneIds": [
+      "Africa/Bangui"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "cg",
+    "TimeZoneIds": [
+      "Africa/Brazzaville"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ch",
+    "TimeZoneIds": [
+      "Europe/Zurich"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ci",
+    "TimeZoneIds": [
+      "Africa/Abidjan"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ck",
+    "TimeZoneIds": [
+      "Pacific/Rarotonga"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "cl",
+    "TimeZoneIds": [
+      "America/Punta_Arenas",
+      "America/Santiago",
+      "Pacific/Easter"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Chile/Continental",
+        "PreferredId": "America/Santiago"
+      }
+    ]
+  },
+  {
+    "CountryIso": "cm",
+    "TimeZoneIds": [
+      "Africa/Douala"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "cn",
+    "TimeZoneIds": [
+      "Asia/Shanghai",
+      "Asia/Urumqi"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Asia/Chongqing",
+        "PreferredId": "Asia/Shanghai"
+      }
+    ]
+  },
+  {
+    "CountryIso": "co",
+    "TimeZoneIds": [
+      "America/Bogota"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "cr",
+    "TimeZoneIds": [
+      "America/Costa_Rica"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "cu",
+    "TimeZoneIds": [
+      "America/Havana"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Cuba",
+        "PreferredId": "America/Havana"
+      }
+    ]
+  },
+  {
+    "CountryIso": "cv",
+    "TimeZoneIds": [
+      "Atlantic/Cape_Verde"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "cw",
+    "TimeZoneIds": [
+      "America/Curacao"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "cx",
+    "TimeZoneIds": [
+      "Indian/Christmas"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "cy",
+    "TimeZoneIds": [
+      "Asia/Nicosia",
+      "Asia/Famagusta"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "cz",
+    "TimeZoneIds": [
+      "Europe/Prague"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "de",
+    "TimeZoneIds": [
+      "Europe/Berlin"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "dj",
+    "TimeZoneIds": [
+      "Africa/Djibouti"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "dk",
+    "TimeZoneIds": [
+      "Europe/Copenhagen"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "dm",
+    "TimeZoneIds": [
+      "America/Dominica"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "do",
+    "TimeZoneIds": [
+      "America/Santo_Domingo"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "dz",
+    "TimeZoneIds": [
+      "Africa/Algiers"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ec",
+    "TimeZoneIds": [
+      "America/Guayaquil",
+      "Pacific/Galapagos"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ee",
+    "TimeZoneIds": [
+      "Europe/Tallinn"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "eg",
+    "TimeZoneIds": [
+      "Africa/Cairo"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Egypt",
+        "PreferredId": "Africa/Cairo"
+      }
+    ]
+  },
+  {
+    "CountryIso": "eh",
+    "TimeZoneIds": [
+      "Africa/El_Aaiun"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "er",
+    "TimeZoneIds": [
+      "Africa/Asmara"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Africa/Asmera",
+        "PreferredId": "Africa/Asmara"
+      }
+    ]
+  },
+  {
+    "CountryIso": "es",
+    "TimeZoneIds": [
+      "Europe/Madrid",
+      "Atlantic/Canary"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "et",
+    "TimeZoneIds": [
+      "Africa/Addis_Ababa"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "fi",
+    "TimeZoneIds": [
+      "Europe/Helsinki"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "fj",
+    "TimeZoneIds": [
+      "Pacific/Fiji"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "fk",
+    "TimeZoneIds": [
+      "Atlantic/Stanley"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "fm",
+    "TimeZoneIds": [
+      "Pacific/Pohnpei",
+      "Pacific/Kosrae",
+      "Pacific/Chuuk"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Pacific/Ponape",
+        "PreferredId": "Pacific/Pohnpei"
+      }
+    ]
+  },
+  {
+    "CountryIso": "fo",
+    "TimeZoneIds": [
+      "Atlantic/Faroe"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Atlantic/Faeroe",
+        "PreferredId": "Atlantic/Faroe"
+      }
+    ]
+  },
+  {
+    "CountryIso": "fr",
+    "TimeZoneIds": [
+      "Europe/Paris"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ga",
+    "TimeZoneIds": [
+      "Africa/Libreville"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "gb",
+    "TimeZoneIds": [
+      "Europe/London"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Europe/Belfast",
+        "PreferredId": "Europe/London"
+      }
+    ]
+  },
+  {
+    "CountryIso": "gd",
+    "TimeZoneIds": [
+      "America/Grenada"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ge",
+    "TimeZoneIds": [
+      "Asia/Tbilisi"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "gf",
+    "TimeZoneIds": [
+      "America/Cayenne"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "gg",
+    "TimeZoneIds": [
+      "Europe/Guernsey"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "gh",
+    "TimeZoneIds": [
+      "Africa/Accra"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "gi",
+    "TimeZoneIds": [
+      "Europe/Gibraltar"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "gl",
+    "TimeZoneIds": [
+      "America/Danmarkshavn",
+      "America/Scoresbysund",
+      "America/Nuuk",
+      "America/Thule"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "America/Godthab",
+        "PreferredId": "America/Nuuk"
+      }
+    ]
+  },
+  {
+    "CountryIso": "gm",
+    "TimeZoneIds": [
+      "Africa/Banjul"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "gn",
+    "TimeZoneIds": [
+      "Africa/Conakry"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "gp",
+    "TimeZoneIds": [
+      "America/Guadeloupe"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "gq",
+    "TimeZoneIds": [
+      "Africa/Malabo"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "gr",
+    "TimeZoneIds": [
+      "Europe/Athens"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "gs",
+    "TimeZoneIds": [
+      "Atlantic/South_Georgia"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "gt",
+    "TimeZoneIds": [
+      "America/Guatemala"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "gu",
+    "TimeZoneIds": [
+      "Pacific/Guam"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "gw",
+    "TimeZoneIds": [
+      "Africa/Bissau"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "gy",
+    "TimeZoneIds": [
+      "America/Guyana"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "hk",
+    "TimeZoneIds": [
+      "Asia/Hong_Kong"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Hongkong",
+        "PreferredId": "Asia/Hong_Kong"
+      }
+    ]
+  },
+  {
+    "CountryIso": "hn",
+    "TimeZoneIds": [
+      "America/Tegucigalpa"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "hr",
+    "TimeZoneIds": [
+      "Europe/Zagreb"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ht",
+    "TimeZoneIds": [
+      "America/Port-au-Prince"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "hu",
+    "TimeZoneIds": [
+      "Europe/Budapest"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "id",
+    "TimeZoneIds": [
+      "Asia/Jayapura",
+      "Asia/Makassar",
+      "Asia/Jakarta"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Asia/Ujung_Pandang",
+        "PreferredId": "Asia/Makassar"
+      }
+    ]
+  },
+  {
+    "CountryIso": "ie",
+    "TimeZoneIds": [
+      "Europe/Dublin"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Eire",
+        "PreferredId": "Europe/Dublin"
+      }
+    ]
+  },
+  {
+    "CountryIso": "il",
+    "TimeZoneIds": [
+      "Asia/Jerusalem"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Asia/Tel_Aviv",
+        "PreferredId": "Asia/Jerusalem"
+      }
+    ]
+  },
+  {
+    "CountryIso": "im",
+    "TimeZoneIds": [
+      "Europe/Isle_of_Man"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "in",
+    "TimeZoneIds": [
+      "Asia/Kolkata"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Asia/Calcutta",
+        "PreferredId": "Asia/Kolkata"
+      }
+    ]
+  },
+  {
+    "CountryIso": "io",
+    "TimeZoneIds": [
+      "Indian/Chagos"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "iq",
+    "TimeZoneIds": [
+      "Asia/Baghdad"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ir",
+    "TimeZoneIds": [
+      "Asia/Tehran"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Iran",
+        "PreferredId": "Asia/Tehran"
+      }
+    ]
+  },
+  {
+    "CountryIso": "is",
+    "TimeZoneIds": [
+      "Atlantic/Reykjavik"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Iceland",
+        "PreferredId": "Atlantic/Reykjavik"
+      }
+    ]
+  },
+  {
+    "CountryIso": "it",
+    "TimeZoneIds": [
+      "Europe/Rome"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "je",
+    "TimeZoneIds": [
+      "Europe/Jersey"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "jm",
+    "TimeZoneIds": [
+      "America/Jamaica"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Jamaica",
+        "PreferredId": "America/Jamaica"
+      }
+    ]
+  },
+  {
+    "CountryIso": "jo",
+    "TimeZoneIds": [
+      "Asia/Amman"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "jp",
+    "TimeZoneIds": [
+      "Asia/Tokyo"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Japan",
+        "PreferredId": "Asia/Tokyo"
+      }
+    ]
+  },
+  {
+    "CountryIso": "ke",
+    "TimeZoneIds": [
+      "Africa/Nairobi"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "kg",
+    "TimeZoneIds": [
+      "Asia/Bishkek"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "kh",
+    "TimeZoneIds": [
+      "Asia/Phnom_Penh"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ki",
+    "TimeZoneIds": [
+      "Pacific/Kiritimati",
+      "Pacific/Enderbury",
+      "Pacific/Tarawa"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Pacific/Kanton",
+        "PreferredId": "Pacific/Enderbury"
+      }
+    ]
+  },
+  {
+    "CountryIso": "km",
+    "TimeZoneIds": [
+      "Indian/Comoro"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "kn",
+    "TimeZoneIds": [
+      "America/St_Kitts"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "kp",
+    "TimeZoneIds": [
+      "Asia/Pyongyang"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "kr",
+    "TimeZoneIds": [
+      "Asia/Seoul"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "ROK",
+        "PreferredId": "Asia/Seoul"
+      }
+    ]
+  },
+  {
+    "CountryIso": "kw",
+    "TimeZoneIds": [
+      "Asia/Kuwait"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ky",
+    "TimeZoneIds": [
+      "America/Cayman"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "kz",
+    "TimeZoneIds": [
+      "Asia/Almaty",
+      "Asia/Oral"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "la",
+    "TimeZoneIds": [
+      "Asia/Vientiane"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "lb",
+    "TimeZoneIds": [
+      "Asia/Beirut"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "lc",
+    "TimeZoneIds": [
+      "America/St_Lucia"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "li",
+    "TimeZoneIds": [
+      "Europe/Vaduz"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "lk",
+    "TimeZoneIds": [
+      "Asia/Colombo"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "lr",
+    "TimeZoneIds": [
+      "Africa/Monrovia"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ls",
+    "TimeZoneIds": [
+      "Africa/Maseru"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "lt",
+    "TimeZoneIds": [
+      "Europe/Vilnius"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "lu",
+    "TimeZoneIds": [
+      "Europe/Luxembourg"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "lv",
+    "TimeZoneIds": [
+      "Europe/Riga"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ly",
+    "TimeZoneIds": [
+      "Africa/Tripoli"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Libya",
+        "PreferredId": "Africa/Tripoli"
+      }
+    ]
+  },
+  {
+    "CountryIso": "ma",
+    "TimeZoneIds": [
+      "Africa/Casablanca"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "mc",
+    "TimeZoneIds": [
+      "Europe/Monaco"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "md",
+    "TimeZoneIds": [
+      "Europe/Chisinau"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Europe/Tiraspol",
+        "PreferredId": "Europe/Chisinau"
+      }
+    ]
+  },
+  {
+    "CountryIso": "me",
+    "TimeZoneIds": [
+      "Europe/Podgorica"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "mf",
+    "TimeZoneIds": [
+      "America/Marigot"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "mg",
+    "TimeZoneIds": [
+      "Indian/Antananarivo"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "mh",
+    "TimeZoneIds": [
+      "Pacific/Majuro"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Kwajalein",
+        "PreferredId": "Pacific/Kwajalein"
+      }
+    ]
+  },
+  {
+    "CountryIso": "mk",
+    "TimeZoneIds": [
+      "Europe/Skopje"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ml",
+    "TimeZoneIds": [
+      "Africa/Bamako"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Africa/Timbuktu",
+        "PreferredId": "Africa/Bamako"
+      }
+    ]
+  },
+  {
+    "CountryIso": "mm",
+    "TimeZoneIds": [
+      "Asia/Yangon"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Asia/Rangoon",
+        "PreferredId": "Asia/Yangon"
+      }
+    ]
+  },
+  {
+    "CountryIso": "mn",
+    "TimeZoneIds": [
+      "Asia/Ulaanbaatar",
+      "Asia/Hovd"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Asia/Ulan_Bator",
+        "PreferredId": "Asia/Ulaanbaatar"
+      }
+    ]
+  },
+  {
+    "CountryIso": "mo",
+    "TimeZoneIds": [
+      "Asia/Macau"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Asia/Macao",
+        "PreferredId": "Asia/Macau"
+      }
+    ]
+  },
+  {
+    "CountryIso": "mp",
+    "TimeZoneIds": [
+      "Pacific/Saipan"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "mq",
+    "TimeZoneIds": [
+      "America/Martinique"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "mr",
+    "TimeZoneIds": [
+      "Africa/Nouakchott"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ms",
+    "TimeZoneIds": [
+      "America/Montserrat"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "mt",
+    "TimeZoneIds": [
+      "Europe/Malta"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "mu",
+    "TimeZoneIds": [
+      "Indian/Mauritius"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "mv",
+    "TimeZoneIds": [
+      "Indian/Maldives"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "mw",
+    "TimeZoneIds": [
+      "Africa/Blantyre"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "mx",
+    "TimeZoneIds": [
+      "America/Mexico_City",
+      "America/Matamoros",
+      "America/Cancun",
+      "America/Ciudad_Juarez",
+      "America/Hermosillo",
+      "America/Tijuana"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Mexico/General",
+        "PreferredId": "America/Mexico_City"
+      }
+    ]
+  },
+  {
+    "CountryIso": "my",
+    "TimeZoneIds": [
+      "Asia/Kuala_Lumpur"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "mz",
+    "TimeZoneIds": [
+      "Africa/Maputo"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "na",
+    "TimeZoneIds": [
+      "Africa/Windhoek"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "nc",
+    "TimeZoneIds": [
+      "Pacific/Noumea"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ne",
+    "TimeZoneIds": [
+      "Africa/Niamey"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "nf",
+    "TimeZoneIds": [
+      "Pacific/Norfolk"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ng",
+    "TimeZoneIds": [
+      "Africa/Lagos"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ni",
+    "TimeZoneIds": [
+      "America/Managua"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "nl",
+    "TimeZoneIds": [
+      "Europe/Amsterdam"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "no",
+    "TimeZoneIds": [
+      "Europe/Oslo"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Atlantic/Jan_Mayen",
+        "PreferredId": "Europe/Oslo"
+      }
+    ]
+  },
+  {
+    "CountryIso": "np",
+    "TimeZoneIds": [
+      "Asia/Kathmandu"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Asia/Katmandu",
+        "PreferredId": "Asia/Kathmandu"
+      }
+    ]
+  },
+  {
+    "CountryIso": "nr",
+    "TimeZoneIds": [
+      "Pacific/Nauru"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "nu",
+    "TimeZoneIds": [
+      "Pacific/Niue"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "nz",
+    "TimeZoneIds": [
+      "Pacific/Auckland",
+      "Pacific/Chatham"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Antarctica/South_Pole",
+        "PreferredId": "Pacific/Auckland"
+      }
+    ]
+  },
+  {
+    "CountryIso": "om",
+    "TimeZoneIds": [
+      "Asia/Muscat"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "pa",
+    "TimeZoneIds": [
+      "America/Panama"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "pe",
+    "TimeZoneIds": [
+      "America/Lima"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "pf",
+    "TimeZoneIds": [
+      "Pacific/Gambier",
+      "Pacific/Marquesas",
+      "Pacific/Tahiti"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "pg",
+    "TimeZoneIds": [
+      "Pacific/Port_Moresby",
+      "Pacific/Bougainville"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ph",
+    "TimeZoneIds": [
+      "Asia/Manila"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "pk",
+    "TimeZoneIds": [
+      "Asia/Karachi"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "pl",
+    "TimeZoneIds": [
+      "Europe/Warsaw"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Poland",
+        "PreferredId": "Europe/Warsaw"
+      }
+    ]
+  },
+  {
+    "CountryIso": "pm",
+    "TimeZoneIds": [
+      "America/Miquelon"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "pn",
+    "TimeZoneIds": [
+      "Pacific/Pitcairn"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "pr",
+    "TimeZoneIds": [
+      "America/Puerto_Rico"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ps",
+    "TimeZoneIds": [
+      "Asia/Hebron"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "pt",
+    "TimeZoneIds": [
+      "Europe/Lisbon",
+      "Atlantic/Azores"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Portugal",
+        "PreferredId": "Europe/Lisbon"
+      }
+    ]
+  },
+  {
+    "CountryIso": "pw",
+    "TimeZoneIds": [
+      "Pacific/Palau"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "py",
+    "TimeZoneIds": [
+      "America/Asuncion"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "qa",
+    "TimeZoneIds": [
+      "Asia/Qatar"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "re",
+    "TimeZoneIds": [
+      "Indian/Reunion"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ro",
+    "TimeZoneIds": [
+      "Europe/Bucharest"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "rs",
+    "TimeZoneIds": [
+      "Europe/Belgrade"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ru",
+    "TimeZoneIds": [
+      "Asia/Kamchatka",
+      "Asia/Anadyr",
+      "Asia/Magadan",
+      "Asia/Sakhalin",
+      "Asia/Srednekolymsk",
+      "Asia/Vladivostok",
+      "Asia/Chita",
+      "Asia/Irkutsk",
+      "Asia/Krasnoyarsk",
+      "Asia/Novosibirsk",
+      "Asia/Barnaul",
+      "Asia/Omsk",
+      "Asia/Yekaterinburg",
+      "Europe/Samara",
+      "Europe/Saratov",
+      "Europe/Moscow",
+      "Europe/Volgograd",
+      "Europe/Kirov",
+      "Europe/Kaliningrad"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "W-SU",
+        "PreferredId": "Europe/Moscow"
+      }
+    ]
+  },
+  {
+    "CountryIso": "rw",
+    "TimeZoneIds": [
+      "Africa/Kigali"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "sa",
+    "TimeZoneIds": [
+      "Asia/Riyadh"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "sb",
+    "TimeZoneIds": [
+      "Pacific/Guadalcanal"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "sc",
+    "TimeZoneIds": [
+      "Indian/Mahe"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "sd",
+    "TimeZoneIds": [
+      "Africa/Khartoum"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "se",
+    "TimeZoneIds": [
+      "Europe/Stockholm"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "sg",
+    "TimeZoneIds": [
+      "Asia/Singapore"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Singapore",
+        "PreferredId": "Asia/Singapore"
+      }
+    ]
+  },
+  {
+    "CountryIso": "sh",
+    "TimeZoneIds": [
+      "Atlantic/St_Helena"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "si",
+    "TimeZoneIds": [
+      "Europe/Ljubljana"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "sj",
+    "TimeZoneIds": [
+      "Arctic/Longyearbyen"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "sk",
+    "TimeZoneIds": [
+      "Europe/Bratislava"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "sl",
+    "TimeZoneIds": [
+      "Africa/Freetown"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "sm",
+    "TimeZoneIds": [
+      "Europe/San_Marino"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "sn",
+    "TimeZoneIds": [
+      "Africa/Dakar"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "so",
+    "TimeZoneIds": [
+      "Africa/Mogadishu"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "sr",
+    "TimeZoneIds": [
+      "America/Paramaribo"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ss",
+    "TimeZoneIds": [
+      "Africa/Juba"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "st",
+    "TimeZoneIds": [
+      "Africa/Sao_Tome"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "sv",
+    "TimeZoneIds": [
+      "America/El_Salvador"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "sx",
+    "TimeZoneIds": [
+      "America/Lower_Princes"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "sy",
+    "TimeZoneIds": [
+      "Asia/Damascus"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "sz",
+    "TimeZoneIds": [
+      "Africa/Mbabane"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "tc",
+    "TimeZoneIds": [
+      "America/Grand_Turk"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "td",
+    "TimeZoneIds": [
+      "Africa/Ndjamena"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "tf",
+    "TimeZoneIds": [
+      "Indian/Kerguelen"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "tg",
+    "TimeZoneIds": [
+      "Africa/Lome"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "th",
+    "TimeZoneIds": [
+      "Asia/Bangkok"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "tj",
+    "TimeZoneIds": [
+      "Asia/Dushanbe"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "tk",
+    "TimeZoneIds": [
+      "Pacific/Fakaofo"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "tl",
+    "TimeZoneIds": [
+      "Asia/Dili"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "tm",
+    "TimeZoneIds": [
+      "Asia/Ashgabat"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Asia/Ashkhabad",
+        "PreferredId": "Asia/Ashgabat"
+      }
+    ]
+  },
+  {
+    "CountryIso": "tn",
+    "TimeZoneIds": [
+      "Africa/Tunis"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "to",
+    "TimeZoneIds": [
+      "Pacific/Tongatapu"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "tr",
+    "TimeZoneIds": [
+      "Europe/Istanbul"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Turkey",
+        "PreferredId": "Europe/Istanbul"
+      }
+    ]
+  },
+  {
+    "CountryIso": "tt",
+    "TimeZoneIds": [
+      "America/Port_of_Spain"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "America/Virgin",
+        "PreferredId": "America/Port_of_Spain"
+      }
+    ]
+  },
+  {
+    "CountryIso": "tv",
+    "TimeZoneIds": [
+      "Pacific/Funafuti"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "tw",
+    "TimeZoneIds": [
+      "Asia/Taipei"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "ROC",
+        "PreferredId": "Asia/Taipei"
+      }
+    ]
+  },
+  {
+    "CountryIso": "tz",
+    "TimeZoneIds": [
+      "Africa/Dar_es_Salaam"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ua",
+    "TimeZoneIds": [
+      "Europe/Kiev",
+      "Europe/Simferopol"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Europe/Kyiv",
+        "PreferredId": "Europe/Kiev"
+      }
+    ]
+  },
+  {
+    "CountryIso": "ug",
+    "TimeZoneIds": [
+      "Africa/Kampala"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "um",
+    "TimeZoneIds": [
+      "Pacific/Wake",
+      "Pacific/Midway"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "us",
+    "TimeZoneIds": [
+      "America/New_York",
+      "America/Chicago",
+      "America/Denver",
+      "America/Phoenix",
+      "America/Los_Angeles",
+      "America/Anchorage",
+      "Pacific/Honolulu",
+      "America/Adak"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "US/Eastern",
+        "PreferredId": "America/New_York"
+      }
+    ]
+  },
+  {
+    "CountryIso": "uy",
+    "TimeZoneIds": [
+      "America/Montevideo"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "uz",
+    "TimeZoneIds": [
+      "Asia/Tashkent"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "va",
+    "TimeZoneIds": [
+      "Europe/Vatican"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "vc",
+    "TimeZoneIds": [
+      "America/St_Vincent"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ve",
+    "TimeZoneIds": [
+      "America/Caracas"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "vg",
+    "TimeZoneIds": [
+      "America/Tortola"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "vi",
+    "TimeZoneIds": [
+      "America/St_Thomas"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "vn",
+    "TimeZoneIds": [
+      "Asia/Ho_Chi_Minh"
+    ],
+    "TimeZoneLinks": [
+      {
+        "AlternativeId": "Asia/Saigon",
+        "PreferredId": "Asia/Ho_Chi_Minh"
+      }
+    ]
+  },
+  {
+    "CountryIso": "vu",
+    "TimeZoneIds": [
+      "Pacific/Efate"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "wf",
+    "TimeZoneIds": [
+      "Pacific/Wallis"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ws",
+    "TimeZoneIds": [
+      "Pacific/Apia"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "ye",
+    "TimeZoneIds": [
+      "Asia/Aden"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "yt",
+    "TimeZoneIds": [
+      "Indian/Mayotte"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "za",
+    "TimeZoneIds": [
+      "Africa/Johannesburg"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "zm",
+    "TimeZoneIds": [
+      "Africa/Lusaka"
+    ],
+    "TimeZoneLinks": []
+  },
+  {
+    "CountryIso": "zw",
+    "TimeZoneIds": [
+      "Africa/Harare"
+    ],
+    "TimeZoneLinks": []
+  }
+]
