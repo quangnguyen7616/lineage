@@ -1,6 +1,6 @@
 [
     {
-        "CountryIso": "ad",
+        "_id": "ad",
         "TimeZoneIds": [
             "Europe/Andorra"
         ],
@@ -14,7 +14,7 @@
         ]
     },
     {
-        "CountryIso": "ae",
+        "_id": "ae",
         "TimeZoneIds": [
             "Asia/Dubai"
         ],
@@ -33,7 +33,7 @@
         ]
     },
     {
-        "CountryIso": "af",
+        "_id": "af",
         "TimeZoneIds": [
             "Asia/Kabul"
         ],
@@ -77,7 +77,7 @@
         ]
     },
     {
-        "CountryIso": "ag",
+        "_id": "ag",
         "TimeZoneIds": [
             "America/Antigua"
         ],
@@ -101,7 +101,7 @@
         ]
     },
     {
-        "CountryIso": "ai",
+        "_id": "ai",
         "TimeZoneIds": [
             "America/Anguilla"
         ],
@@ -115,7 +115,7 @@
         ]
     },
     {
-        "CountryIso": "al",
+        "_id": "al",
         "TimeZoneIds": [
             "Europe/Tirane"
         ],
@@ -134,7 +134,7 @@
         ]
     },
     {
-        "CountryIso": "am",
+        "_id": "am",
         "TimeZoneIds": [
             "Asia/Yerevan"
         ],
@@ -158,7 +158,7 @@
         ]
     },
     {
-        "CountryIso": "ao",
+        "_id": "ao",
         "TimeZoneIds": [
             "Africa/Luanda"
         ],
@@ -177,7 +177,7 @@
         ]
     },
     {
-        "CountryIso": "aq",
+        "_id": "aq",
         "TimeZoneIds": [
             "Antarctica/McMurdo",
             "Antarctica/DumontDUrville",
@@ -194,7 +194,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "ar",
+        "_id": "ar",
         "TimeZoneIds": [
             "America/Argentina/Buenos_Aires"
         ],
@@ -248,7 +248,7 @@
         ]
     },
     {
-        "CountryIso": "as",
+        "_id": "as",
         "TimeZoneIds": [
             "Pacific/Pago_Pago"
         ],
@@ -272,7 +272,7 @@
         ]
     },
     {
-        "CountryIso": "at",
+        "_id": "at",
         "TimeZoneIds": [
             "Europe/Vienna"
         ],
@@ -351,7 +351,7 @@
         ]
     },
     {
-        "CountryIso": "au",
+        "_id": "au",
         "TimeZoneIds": [
             "Australia/Sydney",
             "Australia/Brisbane",
@@ -370,7 +370,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "aw",
+        "_id": "aw",
         "TimeZoneIds": [
             "America/Aruba"
         ],
@@ -389,7 +389,7 @@
         ]
     },
     {
-        "CountryIso": "ax",
+        "_id": "ax",
         "TimeZoneIds": [
             "Europe/Mariehamn"
         ],
@@ -397,7 +397,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "az",
+        "_id": "az",
         "TimeZoneIds": [
             "Asia/Baku"
         ],
@@ -431,7 +431,7 @@
         ]
     },
     {
-        "CountryIso": "ba",
+        "_id": "ba",
         "TimeZoneIds": [
             "Europe/Sarajevo"
         ],
@@ -455,7 +455,7 @@
         ]
     },
     {
-        "CountryIso": "bb",
+        "_id": "bb",
         "TimeZoneIds": [
             "America/Barbados"
         ],
@@ -474,7 +474,7 @@
         ]
     },
     {
-        "CountryIso": "bd",
+        "_id": "bd",
         "TimeZoneIds": [
             "Asia/Dhaka"
         ],
@@ -518,7 +518,7 @@
         ]
     },
     {
-        "CountryIso": "be",
+        "_id": "be",
         "TimeZoneIds": [
             "Europe/Brussels"
         ],
@@ -562,7 +562,7 @@
         ]
     },
     {
-        "CountryIso": "bf",
+        "_id": "bf",
         "TimeZoneIds": [
             "Africa/Ouagadougou"
         ],
@@ -586,7 +586,7 @@
         ]
     },
     {
-        "CountryIso": "bg",
+        "_id": "bg",
         "TimeZoneIds": [
             "Europe/Sofia"
         ],
@@ -620,7 +620,7 @@
         ]
     },
     {
-        "CountryIso": "bh",
+        "_id": "bh",
         "TimeZoneIds": [
             "Asia/Bahrain"
         ],
@@ -649,7 +649,7 @@
         ]
     },
     {
-        "CountryIso": "bi",
+        "_id": "bi",
         "TimeZoneIds": [
             "Africa/Bujumbura"
         ],
@@ -678,7 +678,7 @@
         ]
     },
     {
-        "CountryIso": "bj",
+        "_id": "bj",
         "TimeZoneIds": [
             "Africa/Porto-Novo"
         ],
@@ -702,7 +702,7 @@
         ]
     },
     {
-        "CountryIso": "bl",
+        "_id": "bl",
         "TimeZoneIds": [
             "America/St_Barthelemy"
         ],
@@ -710,7 +710,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "bm",
+        "_id": "bm",
         "TimeZoneIds": [
             "Atlantic/Bermuda"
         ],
@@ -729,7 +729,7 @@
         ]
     },
     {
-        "CountryIso": "bn",
+        "_id": "bn",
         "TimeZoneIds": [
             "Asia/Brunei"
         ],
@@ -753,7 +753,7 @@
         ]
     },
     {
-        "CountryIso": "bo",
+        "_id": "bo",
         "TimeZoneIds": [
             "America/La_Paz"
         ],
@@ -777,7 +777,7 @@
         ]
     },
     {
-        "CountryIso": "bq",
+        "_id": "bq",
         "TimeZoneIds": [
             "America/Kralendijk"
         ],
@@ -785,7 +785,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "br",
+        "_id": "br",
         "TimeZoneIds": [
             "America/Noronha",
             "America/Sao_Paulo",
@@ -907,7 +907,7 @@
         ]
     },
     {
-        "CountryIso": "bs",
+        "_id": "bs",
         "TimeZoneIds": [
             "America/Nassau"
         ],
@@ -926,7 +926,7 @@
         ]
     },
     {
-        "CountryIso": "bt",
+        "_id": "bt",
         "TimeZoneIds": [
             "Asia/Thimphu"
         ],
@@ -950,7 +950,7 @@
         ]
     },
     {
-        "CountryIso": "bw",
+        "_id": "bw",
         "TimeZoneIds": [
             "Africa/Gaborone"
         ],
@@ -974,7 +974,7 @@
         ]
     },
     {
-        "CountryIso": "by",
+        "_id": "by",
         "TimeZoneIds": [
             "Europe/Minsk"
         ],
@@ -1003,7 +1003,7 @@
         ]
     },
     {
-        "CountryIso": "bz",
+        "_id": "bz",
         "TimeZoneIds": [
             "America/Belize"
         ],
@@ -1027,7 +1027,7 @@
         ]
     },
     {
-        "CountryIso": "ca",
+        "_id": "ca",
         "TimeZoneIds": [
             "America/Toronto",
             "America/Vancouver",
@@ -1211,7 +1211,7 @@
         ]
     },
     {
-        "CountryIso": "cc",
+        "_id": "cc",
         "TimeZoneIds": [
             "Indian/Cocos"
         ],
@@ -1219,7 +1219,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "cd",
+        "_id": "cd",
         "TimeZoneIds": [
             "Africa/Lubumbashi",
             "Africa/Kinshasa"
@@ -1259,7 +1259,7 @@
         ]
     },
     {
-        "CountryIso": "cf",
+        "_id": "cf",
         "TimeZoneIds": [
             "Africa/Bangui"
         ],
@@ -1288,7 +1288,7 @@
         ]
     },
     {
-        "CountryIso": "cg",
+        "_id": "cg",
         "TimeZoneIds": [
             "Africa/Brazzaville"
         ],
@@ -1312,7 +1312,7 @@
         ]
     },
     {
-        "CountryIso": "ch",
+        "_id": "ch",
         "TimeZoneIds": [
             "Europe/Zurich"
         ],
@@ -1366,7 +1366,7 @@
         ]
     },
     {
-        "CountryIso": "ci",
+        "_id": "ci",
         "TimeZoneIds": [
             "Africa/Abidjan"
         ],
@@ -1405,7 +1405,7 @@
         ]
     },
     {
-        "CountryIso": "ck",
+        "_id": "ck",
         "TimeZoneIds": [
             "Pacific/Rarotonga"
         ],
@@ -1419,7 +1419,7 @@
         ]
     },
     {
-        "CountryIso": "cl",
+        "_id": "cl",
         "TimeZoneIds": [
             "America/Punta_Arenas",
             "America/Santiago",
@@ -1495,7 +1495,7 @@
         ]
     },
     {
-        "CountryIso": "cm",
+        "_id": "cm",
         "TimeZoneIds": [
             "Africa/Douala"
         ],
@@ -1524,7 +1524,7 @@
         ]
     },
     {
-        "CountryIso": "cn",
+        "_id": "cn",
         "TimeZoneIds": [
             "Asia/Shanghai",
             "Asia/Urumqi"
@@ -1574,7 +1574,7 @@
         ]
     },
     {
-        "CountryIso": "co",
+        "_id": "co",
         "TimeZoneIds": [
             "America/Bogota"
         ],
@@ -1633,7 +1633,7 @@
         ]
     },
     {
-        "CountryIso": "cr",
+        "_id": "cr",
         "TimeZoneIds": [
             "America/Costa_Rica"
         ],
@@ -1662,7 +1662,7 @@
         ]
     },
     {
-        "CountryIso": "cu",
+        "_id": "cu",
         "TimeZoneIds": [
             "America/Havana"
         ],
@@ -1681,7 +1681,7 @@
         ]
     },
     {
-        "CountryIso": "cv",
+        "_id": "cv",
         "TimeZoneIds": [
             "Atlantic/Cape_Verde"
         ],
@@ -1700,7 +1700,7 @@
         ]
     },
     {
-        "CountryIso": "cw",
+        "_id": "cw",
         "TimeZoneIds": [
             "America/Curacao"
         ],
@@ -1708,7 +1708,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "cx",
+        "_id": "cx",
         "TimeZoneIds": [
             "Indian/Christmas"
         ],
@@ -1716,7 +1716,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "cy",
+        "_id": "cy",
         "TimeZoneIds": [
             "Asia/Nicosia",
             "Asia/Famagusta"
@@ -1746,7 +1746,7 @@
         ]
     },
     {
-        "CountryIso": "cz",
+        "_id": "cz",
         "TimeZoneIds": [
             "Europe/Prague"
         ],
@@ -1775,7 +1775,7 @@
         ]
     },
     {
-        "CountryIso": "de",
+        "_id": "de",
         "TimeZoneIds": [
             "Europe/Berlin"
         ],
@@ -1839,7 +1839,7 @@
         ]
     },
     {
-        "CountryIso": "dj",
+        "_id": "dj",
         "TimeZoneIds": [
             "Africa/Djibouti"
         ],
@@ -1853,7 +1853,7 @@
         ]
     },
     {
-        "CountryIso": "dk",
+        "_id": "dk",
         "TimeZoneIds": [
             "Europe/Copenhagen"
         ],
@@ -1932,7 +1932,7 @@
         ]
     },
     {
-        "CountryIso": "dm",
+        "_id": "dm",
         "TimeZoneIds": [
             "America/Dominica"
         ],
@@ -1951,7 +1951,7 @@
         ]
     },
     {
-        "CountryIso": "do",
+        "_id": "do",
         "TimeZoneIds": [
             "America/Santo_Domingo"
         ],
@@ -1985,7 +1985,7 @@
         ]
     },
     {
-        "CountryIso": "dz",
+        "_id": "dz",
         "TimeZoneIds": [
             "Africa/Algiers"
         ],
@@ -2019,7 +2019,7 @@
         ]
     },
     {
-        "CountryIso": "ec",
+        "_id": "ec",
         "TimeZoneIds": [
             "America/Guayaquil",
             "Pacific/Galapagos"
@@ -2049,7 +2049,7 @@
         ]
     },
     {
-        "CountryIso": "ee",
+        "_id": "ee",
         "TimeZoneIds": [
             "Europe/Tallinn"
         ],
@@ -2093,7 +2093,7 @@
         ]
     },
     {
-        "CountryIso": "eg",
+        "_id": "eg",
         "TimeZoneIds": [
             "Africa/Cairo"
         ],
@@ -2127,7 +2127,7 @@
         ]
     },
     {
-        "CountryIso": "eh",
+        "_id": "eh",
         "TimeZoneIds": [
             "Africa/El_Aaiun"
         ],
@@ -2135,7 +2135,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "er",
+        "_id": "er",
         "TimeZoneIds": [
             "Africa/Asmara"
         ],
@@ -2154,7 +2154,7 @@
         ]
     },
     {
-        "CountryIso": "es",
+        "_id": "es",
         "TimeZoneIds": [
             "Europe/Madrid",
             "Atlantic/Canary"
@@ -2244,7 +2244,7 @@
         ]
     },
     {
-        "CountryIso": "et",
+        "_id": "et",
         "TimeZoneIds": [
             "Africa/Addis_Ababa"
         ],
@@ -2258,7 +2258,7 @@
         ]
     },
     {
-        "CountryIso": "fi",
+        "_id": "fi",
         "TimeZoneIds": [
             "Europe/Helsinki"
         ],
@@ -2317,7 +2317,7 @@
         ]
     },
     {
-        "CountryIso": "fj",
+        "_id": "fj",
         "TimeZoneIds": [
             "Pacific/Fiji"
         ],
@@ -2341,7 +2341,7 @@
         ]
     },
     {
-        "CountryIso": "fk",
+        "_id": "fk",
         "TimeZoneIds": [
             "Atlantic/Stanley"
         ],
@@ -2355,7 +2355,7 @@
         ]
     },
     {
-        "CountryIso": "fm",
+        "_id": "fm",
         "TimeZoneIds": [
             "Pacific/Pohnpei",
             "Pacific/Kosrae",
@@ -2370,7 +2370,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "fo",
+        "_id": "fo",
         "TimeZoneIds": [
             "Atlantic/Faroe"
         ],
@@ -2394,7 +2394,7 @@
         ]
     },
     {
-        "CountryIso": "fr",
+        "_id": "fr",
         "TimeZoneIds": [
             "Europe/Paris"
         ],
@@ -2503,7 +2503,7 @@
         ]
     },
     {
-        "CountryIso": "ga",
+        "_id": "ga",
         "TimeZoneIds": [
             "Africa/Libreville"
         ],
@@ -2527,7 +2527,7 @@
         ]
     },
     {
-        "CountryIso": "gb",
+        "_id": "gb",
         "TimeZoneIds": [
             "Europe/London"
         ],
@@ -2711,7 +2711,7 @@
         ]
     },
     {
-        "CountryIso": "gd",
+        "_id": "gd",
         "TimeZoneIds": [
             "America/Grenada"
         ],
@@ -2730,7 +2730,7 @@
         ]
     },
     {
-        "CountryIso": "ge",
+        "_id": "ge",
         "TimeZoneIds": [
             "Asia/Tbilisi"
         ],
@@ -2774,7 +2774,7 @@
         ]
     },
     {
-        "CountryIso": "gf",
+        "_id": "gf",
         "TimeZoneIds": [
             "America/Cayenne"
         ],
@@ -2798,7 +2798,7 @@
         ]
     },
     {
-        "CountryIso": "gg",
+        "_id": "gg",
         "TimeZoneIds": [
             "Europe/Guernsey"
         ],
@@ -2822,7 +2822,7 @@
         ]
     },
     {
-        "CountryIso": "gh",
+        "_id": "gh",
         "TimeZoneIds": [
             "Africa/Accra"
         ],
@@ -2871,7 +2871,7 @@
         ]
     },
     {
-        "CountryIso": "gi",
+        "_id": "gi",
         "TimeZoneIds": [
             "Europe/Gibraltar"
         ],
@@ -2885,7 +2885,7 @@
         ]
     },
     {
-        "CountryIso": "gl",
+        "_id": "gl",
         "TimeZoneIds": [
             "America/Danmarkshavn",
             "America/Scoresbysund",
@@ -2917,7 +2917,7 @@
         ]
     },
     {
-        "CountryIso": "gm",
+        "_id": "gm",
         "TimeZoneIds": [
             "Africa/Banjul"
         ],
@@ -2946,7 +2946,7 @@
         ]
     },
     {
-        "CountryIso": "gn",
+        "_id": "gn",
         "TimeZoneIds": [
             "Africa/Conakry"
         ],
@@ -2975,7 +2975,7 @@
         ]
     },
     {
-        "CountryIso": "gp",
+        "_id": "gp",
         "TimeZoneIds": [
             "America/Guadeloupe"
         ],
@@ -2983,7 +2983,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "gq",
+        "_id": "gq",
         "TimeZoneIds": [
             "Africa/Malabo"
         ],
@@ -3002,7 +3002,7 @@
         ]
     },
     {
-        "CountryIso": "gr",
+        "_id": "gr",
         "TimeZoneIds": [
             "Europe/Athens"
         ],
@@ -3041,7 +3041,7 @@
         ]
     },
     {
-        "CountryIso": "gs",
+        "_id": "gs",
         "TimeZoneIds": [
             "Atlantic/South_Georgia"
         ],
@@ -3049,7 +3049,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "gt",
+        "_id": "gt",
         "TimeZoneIds": [
             "America/Guatemala"
         ],
@@ -3078,7 +3078,7 @@
         ]
     },
     {
-        "CountryIso": "gu",
+        "_id": "gu",
         "TimeZoneIds": [
             "Pacific/Guam"
         ],
@@ -3112,7 +3112,7 @@
         ]
     },
     {
-        "CountryIso": "gw",
+        "_id": "gw",
         "TimeZoneIds": [
             "Africa/Bissau"
         ],
@@ -3141,7 +3141,7 @@
         ]
     },
     {
-        "CountryIso": "gy",
+        "_id": "gy",
         "TimeZoneIds": [
             "America/Guyana"
         ],
@@ -3165,7 +3165,7 @@
         ]
     },
     {
-        "CountryIso": "hk",
+        "_id": "hk",
         "TimeZoneIds": [
             "Asia/Hong_Kong"
         ],
@@ -3239,7 +3239,7 @@
         ]
     },
     {
-        "CountryIso": "hn",
+        "_id": "hn",
         "TimeZoneIds": [
             "America/Tegucigalpa"
         ],
@@ -3263,7 +3263,7 @@
         ]
     },
     {
-        "CountryIso": "hr",
+        "_id": "hr",
         "TimeZoneIds": [
             "Europe/Zagreb"
         ],
@@ -3282,7 +3282,7 @@
         ]
     },
     {
-        "CountryIso": "ht",
+        "_id": "ht",
         "TimeZoneIds": [
             "America/Port-au-Prince"
         ],
@@ -3301,7 +3301,7 @@
         ]
     },
     {
-        "CountryIso": "hu",
+        "_id": "hu",
         "TimeZoneIds": [
             "Europe/Budapest"
         ],
@@ -3340,7 +3340,7 @@
         ]
     },
     {
-        "CountryIso": "id",
+        "_id": "id",
         "TimeZoneIds": [
             "Asia/Jayapura",
             "Asia/Makassar",
@@ -3396,7 +3396,7 @@
         ]
     },
     {
-        "CountryIso": "ie",
+        "_id": "ie",
         "TimeZoneIds": [
             "Europe/Dublin"
         ],
@@ -3450,7 +3450,7 @@
         ]
     },
     {
-        "CountryIso": "il",
+        "_id": "il",
         "TimeZoneIds": [
             "Asia/Jerusalem"
         ],
@@ -3544,7 +3544,7 @@
         ]
     },
     {
-        "CountryIso": "im",
+        "_id": "im",
         "TimeZoneIds": [
             "Europe/Isle_of_Man"
         ],
@@ -3563,7 +3563,7 @@
         ]
     },
     {
-        "CountryIso": "in",
+        "_id": "in",
         "TimeZoneIds": [
             "Asia/Kolkata"
         ],
@@ -4172,7 +4172,7 @@
         ]
     },
     {
-        "CountryIso": "io",
+        "_id": "io",
         "TimeZoneIds": [
             "Indian/Chagos"
         ],
@@ -4180,7 +4180,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "iq",
+        "_id": "iq",
         "TimeZoneIds": [
             "Asia/Baghdad"
         ],
@@ -4234,7 +4234,7 @@
         ]
     },
     {
-        "CountryIso": "ir",
+        "_id": "ir",
         "TimeZoneIds": [
             "Asia/Tehran"
         ],
@@ -4338,7 +4338,7 @@
         ]
     },
     {
-        "CountryIso": "is",
+        "_id": "is",
         "TimeZoneIds": [
             "Atlantic/Reykjavik"
         ],
@@ -4377,7 +4377,7 @@
         ]
     },
     {
-        "CountryIso": "it",
+        "_id": "it",
         "TimeZoneIds": [
             "Europe/Rome"
         ],
@@ -4486,7 +4486,7 @@
         ]
     },
     {
-        "CountryIso": "je",
+        "_id": "je",
         "TimeZoneIds": [
             "Europe/Jersey"
         ],
@@ -4510,7 +4510,7 @@
         ]
     },
     {
-        "CountryIso": "jm",
+        "_id": "jm",
         "TimeZoneIds": [
             "America/Jamaica"
         ],
@@ -4534,7 +4534,7 @@
         ]
     },
     {
-        "CountryIso": "jo",
+        "_id": "jo",
         "TimeZoneIds": [
             "Asia/Amman"
         ],
@@ -4558,7 +4558,7 @@
         ]
     },
     {
-        "CountryIso": "jp",
+        "_id": "jp",
         "TimeZoneIds": [
             "Asia/Tokyo"
         ],
@@ -4627,7 +4627,7 @@
         ]
     },
     {
-        "CountryIso": "ke",
+        "_id": "ke",
         "TimeZoneIds": [
             "Africa/Nairobi"
         ],
@@ -4656,7 +4656,7 @@
         ]
     },
     {
-        "CountryIso": "kg",
+        "_id": "kg",
         "TimeZoneIds": [
             "Asia/Bishkek"
         ],
@@ -4680,7 +4680,7 @@
         ]
     },
     {
-        "CountryIso": "kh",
+        "_id": "kh",
         "TimeZoneIds": [
             "Asia/Phnom_Penh"
         ],
@@ -4729,7 +4729,7 @@
         ]
     },
     {
-        "CountryIso": "ki",
+        "_id": "ki",
         "TimeZoneIds": [
             "Pacific/Kiritimati",
             "Pacific/Enderbury",
@@ -4755,7 +4755,7 @@
         ]
     },
     {
-        "CountryIso": "km",
+        "_id": "km",
         "TimeZoneIds": [
             "Indian/Comoro"
         ],
@@ -4774,7 +4774,7 @@
         ]
     },
     {
-        "CountryIso": "kn",
+        "_id": "kn",
         "TimeZoneIds": [
             "America/St_Kitts"
         ],
@@ -4798,7 +4798,7 @@
         ]
     },
     {
-        "CountryIso": "kp",
+        "_id": "kp",
         "TimeZoneIds": [
             "Asia/Pyongyang"
         ],
@@ -4817,7 +4817,7 @@
         ]
     },
     {
-        "CountryIso": "kr",
+        "_id": "kr",
         "TimeZoneIds": [
             "Asia/Seoul"
         ],
@@ -4866,7 +4866,7 @@
         ]
     },
     {
-        "CountryIso": "kw",
+        "_id": "kw",
         "TimeZoneIds": [
             "Asia/Kuwait"
         ],
@@ -4890,7 +4890,7 @@
         ]
     },
     {
-        "CountryIso": "ky",
+        "_id": "ky",
         "TimeZoneIds": [
             "America/Cayman"
         ],
@@ -4914,7 +4914,7 @@
         ]
     },
     {
-        "CountryIso": "kz",
+        "_id": "kz",
         "TimeZoneIds": [
             "Asia/Almaty",
             "Asia/Oral"
@@ -4949,7 +4949,7 @@
         ]
     },
     {
-        "CountryIso": "la",
+        "_id": "la",
         "TimeZoneIds": [
             "Asia/Vientiane"
         ],
@@ -4983,7 +4983,7 @@
         ]
     },
     {
-        "CountryIso": "lb",
+        "_id": "lb",
         "TimeZoneIds": [
             "Asia/Beirut"
         ],
@@ -5002,7 +5002,7 @@
         ]
     },
     {
-        "CountryIso": "lc",
+        "_id": "lc",
         "TimeZoneIds": [
             "America/St_Lucia"
         ],
@@ -5021,7 +5021,7 @@
         ]
     },
     {
-        "CountryIso": "li",
+        "_id": "li",
         "TimeZoneIds": [
             "Europe/Vaduz"
         ],
@@ -5050,7 +5050,7 @@
         ]
     },
     {
-        "CountryIso": "lk",
+        "_id": "lk",
         "TimeZoneIds": [
             "Asia/Colombo"
         ],
@@ -5094,7 +5094,7 @@
         ]
     },
     {
-        "CountryIso": "lr",
+        "_id": "lr",
         "TimeZoneIds": [
             "Africa/Monrovia"
         ],
@@ -5123,7 +5123,7 @@
         ]
     },
     {
-        "CountryIso": "ls",
+        "_id": "ls",
         "TimeZoneIds": [
             "Africa/Maseru"
         ],
@@ -5142,7 +5142,7 @@
         ]
     },
     {
-        "CountryIso": "lt",
+        "_id": "lt",
         "TimeZoneIds": [
             "Europe/Vilnius"
         ],
@@ -5176,7 +5176,7 @@
         ]
     },
     {
-        "CountryIso": "lu",
+        "_id": "lu",
         "TimeZoneIds": [
             "Europe/Luxembourg"
         ],
@@ -5205,7 +5205,7 @@
         ]
     },
     {
-        "CountryIso": "lv",
+        "_id": "lv",
         "TimeZoneIds": [
             "Europe/Riga"
         ],
@@ -5244,7 +5244,7 @@
         ]
     },
     {
-        "CountryIso": "ly",
+        "_id": "ly",
         "TimeZoneIds": [
             "Africa/Tripoli"
         ],
@@ -5283,7 +5283,7 @@
         ]
     },
     {
-        "CountryIso": "ma",
+        "_id": "ma",
         "TimeZoneIds": [
             "Africa/Casablanca"
         ],
@@ -5312,7 +5312,7 @@
         ]
     },
     {
-        "CountryIso": "mc",
+        "_id": "mc",
         "TimeZoneIds": [
             "Europe/Monaco"
         ],
@@ -5326,7 +5326,7 @@
         ]
     },
     {
-        "CountryIso": "md",
+        "_id": "md",
         "TimeZoneIds": [
             "Europe/Chisinau"
         ],
@@ -5370,7 +5370,7 @@
         ]
     },
     {
-        "CountryIso": "me",
+        "_id": "me",
         "TimeZoneIds": [
             "Europe/Podgorica"
         ],
@@ -5394,7 +5394,7 @@
         ]
     },
     {
-        "CountryIso": "mf",
+        "_id": "mf",
         "TimeZoneIds": [
             "America/Marigot"
         ],
@@ -5402,7 +5402,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "mg",
+        "_id": "mg",
         "TimeZoneIds": [
             "Indian/Antananarivo"
         ],
@@ -5431,7 +5431,7 @@
         ]
     },
     {
-        "CountryIso": "mh",
+        "_id": "mh",
         "TimeZoneIds": [
             "Pacific/Majuro"
         ],
@@ -5444,7 +5444,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "mk",
+        "_id": "mk",
         "TimeZoneIds": [
             "Europe/Skopje"
         ],
@@ -5468,7 +5468,7 @@
         ]
     },
     {
-        "CountryIso": "ml",
+        "_id": "ml",
         "TimeZoneIds": [
             "Africa/Bamako"
         ],
@@ -5497,7 +5497,7 @@
         ]
     },
     {
-        "CountryIso": "mm",
+        "_id": "mm",
         "TimeZoneIds": [
             "Asia/Yangon"
         ],
@@ -5546,7 +5546,7 @@
         ]
     },
     {
-        "CountryIso": "mn",
+        "_id": "mn",
         "TimeZoneIds": [
             "Asia/Ulaanbaatar",
             "Asia/Hovd"
@@ -5581,7 +5581,7 @@
         ]
     },
     {
-        "CountryIso": "mo",
+        "_id": "mo",
         "TimeZoneIds": [
             "Asia/Macau"
         ],
@@ -5620,7 +5620,7 @@
         ]
     },
     {
-        "CountryIso": "mp",
+        "_id": "mp",
         "TimeZoneIds": [
             "Pacific/Saipan"
         ],
@@ -5639,7 +5639,7 @@
         ]
     },
     {
-        "CountryIso": "mq",
+        "_id": "mq",
         "TimeZoneIds": [
             "America/Martinique"
         ],
@@ -5647,7 +5647,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "mr",
+        "_id": "mr",
         "TimeZoneIds": [
             "Africa/Nouakchott"
         ],
@@ -5671,7 +5671,7 @@
         ]
     },
     {
-        "CountryIso": "ms",
+        "_id": "ms",
         "TimeZoneIds": [
             "America/Montserrat"
         ],
@@ -5690,7 +5690,7 @@
         ]
     },
     {
-        "CountryIso": "mt",
+        "_id": "mt",
         "TimeZoneIds": [
             "Europe/Malta"
         ],
@@ -5714,7 +5714,7 @@
         ]
     },
     {
-        "CountryIso": "mu",
+        "_id": "mu",
         "TimeZoneIds": [
             "Indian/Mauritius"
         ],
@@ -5743,7 +5743,7 @@
         ]
     },
     {
-        "CountryIso": "mv",
+        "_id": "mv",
         "TimeZoneIds": [
             "Indian/Maldives"
         ],
@@ -5762,7 +5762,7 @@
         ]
     },
     {
-        "CountryIso": "mw",
+        "_id": "mw",
         "TimeZoneIds": [
             "Africa/Blantyre"
         ],
@@ -5791,7 +5791,7 @@
         ]
     },
     {
-        "CountryIso": "mx",
+        "_id": "mx",
         "TimeZoneIds": [
             "America/Mexico_City",
             "America/Matamoros",
@@ -5855,7 +5855,7 @@
         ]
     },
     {
-        "CountryIso": "my",
+        "_id": "my",
         "TimeZoneIds": [
             "Asia/Kuala_Lumpur"
         ],
@@ -5924,7 +5924,7 @@
         ]
     },
     {
-        "CountryIso": "mz",
+        "_id": "mz",
         "TimeZoneIds": [
             "Africa/Maputo"
         ],
@@ -5948,7 +5948,7 @@
         ]
     },
     {
-        "CountryIso": "na",
+        "_id": "na",
         "TimeZoneIds": [
             "Africa/Windhoek"
         ],
@@ -5972,7 +5972,7 @@
         ]
     },
     {
-        "CountryIso": "nc",
+        "_id": "nc",
         "TimeZoneIds": [
             "Pacific/Noumea"
         ],
@@ -5986,7 +5986,7 @@
         ]
     },
     {
-        "CountryIso": "ne",
+        "_id": "ne",
         "TimeZoneIds": [
             "Africa/Niamey"
         ],
@@ -6015,7 +6015,7 @@
         ]
     },
     {
-        "CountryIso": "nf",
+        "_id": "nf",
         "TimeZoneIds": [
             "Pacific/Norfolk"
         ],
@@ -6029,7 +6029,7 @@
         ]
     },
     {
-        "CountryIso": "ng",
+        "_id": "ng",
         "TimeZoneIds": [
             "Africa/Lagos"
         ],
@@ -6073,7 +6073,7 @@
         ]
     },
     {
-        "CountryIso": "ni",
+        "_id": "ni",
         "TimeZoneIds": [
             "America/Managua"
         ],
@@ -6097,7 +6097,7 @@
         ]
     },
     {
-        "CountryIso": "nl",
+        "_id": "nl",
         "TimeZoneIds": [
             "Europe/Amsterdam"
         ],
@@ -6176,7 +6176,7 @@
         ]
     },
     {
-        "CountryIso": "no",
+        "_id": "no",
         "TimeZoneIds": [
             "Europe/Oslo"
         ],
@@ -6230,7 +6230,7 @@
         ]
     },
     {
-        "CountryIso": "np",
+        "_id": "np",
         "TimeZoneIds": [
             "Asia/Kathmandu"
         ],
@@ -6264,7 +6264,7 @@
         ]
     },
     {
-        "CountryIso": "nr",
+        "_id": "nr",
         "TimeZoneIds": [
             "Pacific/Nauru"
         ],
@@ -6278,7 +6278,7 @@
         ]
     },
     {
-        "CountryIso": "nu",
+        "_id": "nu",
         "TimeZoneIds": [
             "Pacific/Niue"
         ],
@@ -6292,7 +6292,7 @@
         ]
     },
     {
-        "CountryIso": "nz",
+        "_id": "nz",
         "TimeZoneIds": [
             "Pacific/Auckland",
             "Pacific/Chatham"
@@ -6322,7 +6322,7 @@
         ]
     },
     {
-        "CountryIso": "om",
+        "_id": "om",
         "TimeZoneIds": [
             "Asia/Muscat"
         ],
@@ -6346,7 +6346,7 @@
         ]
     },
     {
-        "CountryIso": "pa",
+        "_id": "pa",
         "TimeZoneIds": [
             "America/Panama"
         ],
@@ -6380,7 +6380,7 @@
         ]
     },
     {
-        "CountryIso": "pe",
+        "_id": "pe",
         "TimeZoneIds": [
             "America/Lima"
         ],
@@ -6414,7 +6414,7 @@
         ]
     },
     {
-        "CountryIso": "pf",
+        "_id": "pf",
         "TimeZoneIds": [
             "Pacific/Gambier",
             "Pacific/Marquesas",
@@ -6440,7 +6440,7 @@
         ]
     },
     {
-        "CountryIso": "pg",
+        "_id": "pg",
         "TimeZoneIds": [
             "Pacific/Port_Moresby",
             "Pacific/Bougainville"
@@ -6465,7 +6465,7 @@
         ]
     },
     {
-        "CountryIso": "ph",
+        "_id": "ph",
         "TimeZoneIds": [
             "Asia/Manila"
         ],
@@ -6499,7 +6499,7 @@
         ]
     },
     {
-        "CountryIso": "pk",
+        "_id": "pk",
         "TimeZoneIds": [
             "Asia/Karachi"
         ],
@@ -6548,7 +6548,7 @@
         ]
     },
     {
-        "CountryIso": "pl",
+        "_id": "pl",
         "TimeZoneIds": [
             "Europe/Warsaw"
         ],
@@ -6642,7 +6642,7 @@
         ]
     },
     {
-        "CountryIso": "pm",
+        "_id": "pm",
         "TimeZoneIds": [
             "America/Miquelon"
         ],
@@ -6661,7 +6661,7 @@
         ]
     },
     {
-        "CountryIso": "pn",
+        "_id": "pn",
         "TimeZoneIds": [
             "Pacific/Pitcairn"
         ],
@@ -6669,7 +6669,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "pr",
+        "_id": "pr",
         "TimeZoneIds": [
             "America/Puerto_Rico"
         ],
@@ -6703,7 +6703,7 @@
         ]
     },
     {
-        "CountryIso": "ps",
+        "_id": "ps",
         "TimeZoneIds": [
             "Asia/Hebron"
         ],
@@ -6722,7 +6722,7 @@
         ]
     },
     {
-        "CountryIso": "pt",
+        "_id": "pt",
         "TimeZoneIds": [
             "Europe/Lisbon",
             "Atlantic/Azores"
@@ -6757,7 +6757,7 @@
         ]
     },
     {
-        "CountryIso": "pw",
+        "_id": "pw",
         "TimeZoneIds": [
             "Pacific/Palau"
         ],
@@ -6781,7 +6781,7 @@
         ]
     },
     {
-        "CountryIso": "py",
+        "_id": "py",
         "TimeZoneIds": [
             "America/Asuncion"
         ],
@@ -6815,7 +6815,7 @@
         ]
     },
     {
-        "CountryIso": "qa",
+        "_id": "qa",
         "TimeZoneIds": [
             "Asia/Qatar"
         ],
@@ -6844,7 +6844,7 @@
         ]
     },
     {
-        "CountryIso": "re",
+        "_id": "re",
         "TimeZoneIds": [
             "Indian/Reunion"
         ],
@@ -6852,7 +6852,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "ro",
+        "_id": "ro",
         "TimeZoneIds": [
             "Europe/Bucharest"
         ],
@@ -6886,7 +6886,7 @@
         ]
     },
     {
-        "CountryIso": "rs",
+        "_id": "rs",
         "TimeZoneIds": [
             "Europe/Belgrade"
         ],
@@ -6915,7 +6915,7 @@
         ]
     },
     {
-        "CountryIso": "ru",
+        "_id": "ru",
         "TimeZoneIds": [
             "Asia/Kamchatka",
             "Asia/Anadyr",
@@ -7082,7 +7082,7 @@
         ]
     },
     {
-        "CountryIso": "rw",
+        "_id": "rw",
         "TimeZoneIds": [
             "Africa/Kigali"
         ],
@@ -7106,7 +7106,7 @@
         ]
     },
     {
-        "CountryIso": "sa",
+        "_id": "sa",
         "TimeZoneIds": [
             "Asia/Riyadh"
         ],
@@ -7145,7 +7145,7 @@
         ]
     },
     {
-        "CountryIso": "sb",
+        "_id": "sb",
         "TimeZoneIds": [
             "Pacific/Guadalcanal"
         ],
@@ -7164,7 +7164,7 @@
         ]
     },
     {
-        "CountryIso": "sc",
+        "_id": "sc",
         "TimeZoneIds": [
             "Indian/Mahe"
         ],
@@ -7183,7 +7183,7 @@
         ]
     },
     {
-        "CountryIso": "sd",
+        "_id": "sd",
         "TimeZoneIds": [
             "Africa/Khartoum"
         ],
@@ -7217,7 +7217,7 @@
         ]
     },
     {
-        "CountryIso": "se",
+        "_id": "se",
         "TimeZoneIds": [
             "Europe/Stockholm"
         ],
@@ -7301,7 +7301,7 @@
         ]
     },
     {
-        "CountryIso": "sg",
+        "_id": "sg",
         "TimeZoneIds": [
             "Asia/Singapore"
         ],
@@ -7345,7 +7345,7 @@
         ]
     },
     {
-        "CountryIso": "sh",
+        "_id": "sh",
         "TimeZoneIds": [
             "Atlantic/St_Helena"
         ],
@@ -7359,7 +7359,7 @@
         ]
     },
     {
-        "CountryIso": "si",
+        "_id": "si",
         "TimeZoneIds": [
             "Europe/Ljubljana"
         ],
@@ -7388,7 +7388,7 @@
         ]
     },
     {
-        "CountryIso": "sj",
+        "_id": "sj",
         "TimeZoneIds": [
             "Arctic/Longyearbyen"
         ],
@@ -7396,7 +7396,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "sk",
+        "_id": "sk",
         "TimeZoneIds": [
             "Europe/Bratislava"
         ],
@@ -7440,7 +7440,7 @@
         ]
     },
     {
-        "CountryIso": "sl",
+        "_id": "sl",
         "TimeZoneIds": [
             "Africa/Freetown"
         ],
@@ -7474,7 +7474,7 @@
         ]
     },
     {
-        "CountryIso": "sm",
+        "_id": "sm",
         "TimeZoneIds": [
             "Europe/San_Marino"
         ],
@@ -7488,7 +7488,7 @@
         ]
     },
     {
-        "CountryIso": "sn",
+        "_id": "sn",
         "TimeZoneIds": [
             "Africa/Dakar"
         ],
@@ -7512,7 +7512,7 @@
         ]
     },
     {
-        "CountryIso": "so",
+        "_id": "so",
         "TimeZoneIds": [
             "Africa/Mogadishu"
         ],
@@ -7576,7 +7576,7 @@
         ]
     },
     {
-        "CountryIso": "sr",
+        "_id": "sr",
         "TimeZoneIds": [
             "America/Paramaribo"
         ],
@@ -7595,7 +7595,7 @@
         ]
     },
     {
-        "CountryIso": "ss",
+        "_id": "ss",
         "TimeZoneIds": [
             "Africa/Juba"
         ],
@@ -7624,7 +7624,7 @@
         ]
     },
     {
-        "CountryIso": "st",
+        "_id": "st",
         "TimeZoneIds": [
             "Africa/Sao_Tome"
         ],
@@ -7643,7 +7643,7 @@
         ]
     },
     {
-        "CountryIso": "sv",
+        "_id": "sv",
         "TimeZoneIds": [
             "America/El_Salvador"
         ],
@@ -7677,7 +7677,7 @@
         ]
     },
     {
-        "CountryIso": "sx",
+        "_id": "sx",
         "TimeZoneIds": [
             "America/Lower_Princes"
         ],
@@ -7685,7 +7685,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "sy",
+        "_id": "sy",
         "TimeZoneIds": [
             "Asia/Damascus"
         ],
@@ -7704,7 +7704,7 @@
         ]
     },
     {
-        "CountryIso": "sz",
+        "_id": "sz",
         "TimeZoneIds": [
             "Africa/Mbabane"
         ],
@@ -7718,7 +7718,7 @@
         ]
     },
     {
-        "CountryIso": "tc",
+        "_id": "tc",
         "TimeZoneIds": [
             "America/Grand_Turk"
         ],
@@ -7737,7 +7737,7 @@
         ]
     },
     {
-        "CountryIso": "td",
+        "_id": "td",
         "TimeZoneIds": [
             "Africa/Ndjamena"
         ],
@@ -7766,7 +7766,7 @@
         ]
     },
     {
-        "CountryIso": "tf",
+        "_id": "tf",
         "TimeZoneIds": [
             "Indian/Kerguelen"
         ],
@@ -7774,7 +7774,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "tg",
+        "_id": "tg",
         "TimeZoneIds": [
             "Africa/Lome"
         ],
@@ -7793,7 +7793,7 @@
         ]
     },
     {
-        "CountryIso": "th",
+        "_id": "th",
         "TimeZoneIds": [
             "Asia/Bangkok"
         ],
@@ -7857,7 +7857,7 @@
         ]
     },
     {
-        "CountryIso": "tj",
+        "_id": "tj",
         "TimeZoneIds": [
             "Asia/Dushanbe"
         ],
@@ -7896,7 +7896,7 @@
         ]
     },
     {
-        "CountryIso": "tk",
+        "_id": "tk",
         "TimeZoneIds": [
             "Pacific/Fakaofo"
         ],
@@ -7904,7 +7904,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "tl",
+        "_id": "tl",
         "TimeZoneIds": [
             "Asia/Dili"
         ],
@@ -7928,7 +7928,7 @@
         ]
     },
     {
-        "CountryIso": "tm",
+        "_id": "tm",
         "TimeZoneIds": [
             "Asia/Ashgabat"
         ],
@@ -7952,7 +7952,7 @@
         ]
     },
     {
-        "CountryIso": "tn",
+        "_id": "tn",
         "TimeZoneIds": [
             "Africa/Tunis"
         ],
@@ -7976,7 +7976,7 @@
         ]
     },
     {
-        "CountryIso": "to",
+        "_id": "to",
         "TimeZoneIds": [
             "Pacific/Tongatapu"
         ],
@@ -7995,7 +7995,7 @@
         ]
     },
     {
-        "CountryIso": "tr",
+        "_id": "tr",
         "TimeZoneIds": [
             "Europe/Istanbul"
         ],
@@ -8024,7 +8024,7 @@
         ]
     },
     {
-        "CountryIso": "tt",
+        "_id": "tt",
         "TimeZoneIds": [
             "America/Port_of_Spain"
         ],
@@ -8048,7 +8048,7 @@
         ]
     },
     {
-        "CountryIso": "tv",
+        "_id": "tv",
         "TimeZoneIds": [
             "Pacific/Funafuti"
         ],
@@ -8062,7 +8062,7 @@
         ]
     },
     {
-        "CountryIso": "tw",
+        "_id": "tw",
         "TimeZoneIds": [
             "Asia/Taipei"
         ],
@@ -8101,7 +8101,7 @@
         ]
     },
     {
-        "CountryIso": "tz",
+        "_id": "tz",
         "TimeZoneIds": [
             "Africa/Dar_es_Salaam"
         ],
@@ -8145,7 +8145,7 @@
         ]
     },
     {
-        "CountryIso": "ua",
+        "_id": "ua",
         "TimeZoneIds": [
             "Europe/Kiev",
             "Europe/Simferopol"
@@ -8195,7 +8195,7 @@
         ]
     },
     {
-        "CountryIso": "ug",
+        "_id": "ug",
         "TimeZoneIds": [
             "Africa/Kampala"
         ],
@@ -8239,7 +8239,7 @@
         ]
     },
     {
-        "CountryIso": "um",
+        "_id": "um",
         "TimeZoneIds": [
             "Pacific/Wake",
             "Pacific/Midway"
@@ -8248,7 +8248,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "us",
+        "_id": "us",
         "TimeZoneIds": [
             "America/New_York",
             "America/Chicago",
@@ -8794,7 +8794,7 @@
         ]
     },
     {
-        "CountryIso": "uy",
+        "_id": "uy",
         "TimeZoneIds": [
             "America/Montevideo"
         ],
@@ -8818,7 +8818,7 @@
         ]
     },
     {
-        "CountryIso": "uz",
+        "_id": "uz",
         "TimeZoneIds": [
             "Asia/Tashkent"
         ],
@@ -8862,7 +8862,7 @@
         ]
     },
     {
-        "CountryIso": "va",
+        "_id": "va",
         "TimeZoneIds": [
             "Europe/Vatican"
         ],
@@ -8870,7 +8870,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "vc",
+        "_id": "vc",
         "TimeZoneIds": [
             "America/St_Vincent"
         ],
@@ -8889,7 +8889,7 @@
         ]
     },
     {
-        "CountryIso": "ve",
+        "_id": "ve",
         "TimeZoneIds": [
             "America/Caracas"
         ],
@@ -8913,7 +8913,7 @@
         ]
     },
     {
-        "CountryIso": "vg",
+        "_id": "vg",
         "TimeZoneIds": [
             "America/Tortola"
         ],
@@ -8937,7 +8937,7 @@
         ]
     },
     {
-        "CountryIso": "vi",
+        "_id": "vi",
         "TimeZoneIds": [
             "America/St_Thomas"
         ],
@@ -8966,7 +8966,7 @@
         ]
     },
     {
-        "CountryIso": "vn",
+        "_id": "vn",
         "TimeZoneIds": [
             "Asia/Ho_Chi_Minh"
         ],
@@ -9015,7 +9015,7 @@
         ]
     },
     {
-        "CountryIso": "vu",
+        "_id": "vu",
         "TimeZoneIds": [
             "Pacific/Efate"
         ],
@@ -9044,7 +9044,7 @@
         ]
     },
     {
-        "CountryIso": "wf",
+        "_id": "wf",
         "TimeZoneIds": [
             "Pacific/Wallis"
         ],
@@ -9058,7 +9058,7 @@
         ]
     },
     {
-        "CountryIso": "ws",
+        "_id": "ws",
         "TimeZoneIds": [
             "Pacific/Apia"
         ],
@@ -9077,7 +9077,7 @@
         ]
     },
     {
-        "CountryIso": "ye",
+        "_id": "ye",
         "TimeZoneIds": [
             "Asia/Aden"
         ],
@@ -9116,7 +9116,7 @@
         ]
     },
     {
-        "CountryIso": "yt",
+        "_id": "yt",
         "TimeZoneIds": [
             "Indian/Mayotte"
         ],
@@ -9124,7 +9124,7 @@
         "Carriers": []
     },
     {
-        "CountryIso": "za",
+        "_id": "za",
         "TimeZoneIds": [
             "Africa/Johannesburg"
         ],
@@ -9163,7 +9163,7 @@
         ]
     },
     {
-        "CountryIso": "zm",
+        "_id": "zm",
         "TimeZoneIds": [
             "Africa/Lusaka"
         ],
@@ -9187,7 +9187,7 @@
         ]
     },
     {
-        "CountryIso": "zw",
+        "_id": "zw",
         "TimeZoneIds": [
             "Africa/Harare"
         ],
